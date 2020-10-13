@@ -5,8 +5,7 @@ The data was scraped from [Amazon book site](https://www.amazon.com/s?i=stripboo
 The data gotten from the scraping process was subjected to data curation processes and the data saved in a csv file.
 ## Data Description
 * **Author**: Names of books Authors.
-* **Category**: Categories books are grouped into, as seen on 
-The data was scraped from [Amazon book site](https://www.amazon.com/s?i=stripbooks&bbn=283155&rh=n%3A283155&s=review-count-rank&dc&Adv-Srch-Books-Submit.x=30&Adv-Srch-Books-Submit.y=21&qid=1602616200&unfiltered=1&ref=sr_ex_n_1).
+* **Category**: Categories books are grouped into, as seen on [Amazon book site](https://www.amazon.com/s?i=stripbooks&bbn=283155&rh=n%3A283155&s=review-count-rank&dc&Adv-Srch-Books-Submit.x=30&Adv-Srch-Books-Submit.y=21&qid=1602616200&unfiltered=1&ref=sr_ex_n_1).
 * **Title**: Title of book.
 * **Publication_date:** Date of book's publication.
 * **Rating:** Average ratings of books based on the total number of reviews.
